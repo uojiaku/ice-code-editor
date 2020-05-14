@@ -6,7 +6,7 @@ authors:
 - James Hurford <terrasea@gmail.com>
 - Srdjan Pejic <spejic@gmail.com>
 description: Code Editor + Preview
-homepage: https://github.com/eee-c/ice-code-editor
+homepage: https://github.com/uojiaku/ice-code-editor
 dependencies:
   browser: '>=0.10.0 <0.11.0'
   ctrl_alt_foo: '>=0.3.1 <0.3.2'
